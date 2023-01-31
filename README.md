@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on 42 Roma Luiss IT course
+- 🌱 I’m currently learning C, Unix, Python, Virtual machines
+- 📫 How to reach me: irina.anghel42@gmail.com
